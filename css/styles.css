@@ -35,7 +35,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #7f8584 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -68,12 +68,12 @@ a:hover {
 }
 
 .intro {
-  width: 20%;
+  font-size: 0.70rem;
   margin: auto;
 }
 
 .skill-row {
-  width: 70%;
+  width: 80%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
@@ -106,8 +106,8 @@ a:hover {
   margin-left: 30px;
 }
 
-.contact-message {
-  width: 50%;
+.contact-message {  
+  font-size: 0.70rem;
   margin: 40px auto 60px;
 }
 
